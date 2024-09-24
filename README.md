@@ -2,7 +2,7 @@
 Welcome to the Simon Game, a classic memory game where players test their ability to recall an increasingly long sequence of colors and sounds! The goal is to repeat the sequence as accurately as possible. 
 Each time you successfully follow the pattern, the game will extend the sequence by one, making it progressively more difficult.
 <br>
-![alt text](demo.png)
+ ![demo](https://github.com/kshitigambhir/Simon-Says/edit/main)
 <br>
 <h3>How to play</h3>
 1.<b>Start the Game:</b> The game begins with one colored button lighting up and playing a corresponding sound.<br>
