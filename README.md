@@ -9,8 +9,8 @@ Each time you successfully follow the pattern, the game will extend the sequence
 2.<b>Watch the Sequence:</b> A sequence of lights and sounds will be displayed. It starts with one, then adds another for each level.<br>
 3.<b>Repeat the Sequence:</b> You must click the buttons in the same order as the sequence shown.<br>
 4.<b>Progression:</b> If you repeat the sequence correctly, the game will add one more step to the sequence. Your goal is to keep going as long as you can.<br>
-5.<b>Game Over:</b> The game ends when you click the buttons in the wrong order.
-- [ ] Feature 1
+5.<b>Game Over:</b> The game ends when you click the buttons in the wrong order.<br>
+- [x] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
 
