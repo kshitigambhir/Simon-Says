@@ -10,7 +10,6 @@ Each time you successfully follow the pattern, the game will extend the sequence
 3.<b>Repeat the Sequence:</b> You must click the buttons in the same order as the sequence shown.<br>
 4.<b>Progression:</b> If you repeat the sequence correctly, the game will add one more step to the sequence. Your goal is to keep going as long as you can.<br>
 5.<b>Game Over:</b> The game ends when you click the buttons in the wrong order.<br>
-- [x] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete
