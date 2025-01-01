@@ -12,7 +12,7 @@ Each time you successfully follow the pattern, the game will extend the sequence
 5.<b>Game Over:</b> The game ends when you click the buttons in the wrong order.
 <form>
   <label>
-    <input type="checkbox" /> Feature 1
+    <input type="checkbox"/>
   </label>
   <br />
   <label>
